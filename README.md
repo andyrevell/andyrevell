@@ -2,7 +2,7 @@
 
 This GitHub page has moved to the username:
 
-#AndrewYRevell
+# AndrewYRevell
 
-#[https://github.com/andrewyrevell](https://github.com/andrewyrevell)
+# [https://github.com/andrewyrevell](https://github.com/andrewyrevell)
 
